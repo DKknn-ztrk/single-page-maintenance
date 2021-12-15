@@ -2,4 +2,4 @@
 
 **screenshot from `single-page-maintenance`**
 
-![3](https://user-images.githubusercontent.com/54024035/146098975-710df2cc-aa48-4558-9f87-fb864c5c4acd.png)
+![1](https://user-images.githubusercontent.com/54024035/146100024-ac9a6a86-a871-4420-bf40-8c5d888b6524.png)
